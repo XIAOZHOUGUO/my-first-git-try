@@ -1,2 +1,2 @@
-# mygit
-Hello world!
+# my-first-git-try
+## Hello world!
